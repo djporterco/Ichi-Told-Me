@@ -1,6 +1,10 @@
+# ICHI TOLD ME
+
 # Ichimoku Screener
 
-This code is a daily stock screener I wrote that goes through all NYSE, NASDAQ and AMEX stocks and calculates their ichimoku values to determine if an important price event has occured. It gathers the stock tickers and automatically sends an email to everyone on the [email list.](https://docs.google.com/spreadsheets/d/1yJkEd5u12niaFBPlglZO63iM4nSf-SYaXaBFhVCWX8Q/edit#gid=0)
+This code is a daily stock screener written by[kacperadach](https://github.com/kacperadach/ichimoku_screener) that goes through all NYSE, NASDAQ and AMEX stocks and calculates their ichimoku values to determine if an important price event has occured. It gathers the stock tickers and automatically sends an email to everyone on an list.
+
+The original project appears to be abandoned. 
 
 ### Sample Email
 
